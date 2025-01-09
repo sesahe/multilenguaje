@@ -14,7 +14,7 @@ class Saludo
             "en" => ["saludo" => "Hello, World!", "codigo" => "US"], // Inglés
             "hi" => ["saludo" => "नमस्ते दुनिया!", "codigo" => "IN"], // Hindi
             "ar" => ["saludo" => "مرحبا بالعالم!", "codigo" => "AR"], // Árabe
-            "pt" => ["saludo" => "Olá Mundo!", "codigo" => "PT"], // Portugués
+            "pt" => ["saludo" => "Olá Mundo!", "codigo" => "PT"], // Portugues
             "ru" => ["saludo" => "Привет, мир!", "codigo" => "RU"], // Ruso
             "ja" => ["saludo" => "こんにちは、世界！", "codigo" => "JP"], // Japonés
             "de" => ["saludo" => "Hallo Welt!", "codigo" => "DE"], // Alemán
