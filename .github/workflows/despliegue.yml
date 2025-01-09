@@ -3,7 +3,7 @@ name: CI/CD Pipeline for multilenguaje
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   test:
