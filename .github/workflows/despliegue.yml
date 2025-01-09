@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for HolaMundoMultilenguaje
+name: CI/CD Pipeline for multilenguaje
 
 on:
   push:
